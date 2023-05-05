@@ -1,0 +1,9 @@
+torchtext
+datasets
+matplotlib
+numpy
+pandas
+scikit-learn
+torch
+tqdm
+fasttext

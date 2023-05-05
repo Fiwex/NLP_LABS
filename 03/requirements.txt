@@ -1,0 +1,9 @@
+datasets
+numpy
+scikit-learn
+nltk
+vaderSentiment
+matplotlib
+pandas
+seaborn
+torch
