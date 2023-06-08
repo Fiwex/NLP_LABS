@@ -21,4 +21,4 @@ loss et d'autre part l'accuracy.
 ### Evaluation
 
 Nous avons évalué le model fine-tuné sur le dataset d'IMDB en analysant les résultats qui n'ont pas eu
-la bonne classification. Et nous avons répondus à des questions théoriques sur les modèles de NLP.
+la bonne classification. Et nous avons répondu à des questions théoriques sur les modèles de NLP.
