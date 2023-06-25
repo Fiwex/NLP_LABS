@@ -8,14 +8,14 @@ Ce projet est la deuxième partie de la deuxième partie de la matière NLP.
 Nous abordons les implémentations 'deep' des classifiers en NLP.
 
 Dans un premier temps, nous avons repris le tutoriel [language translation with nn.Transformer and torchtext tutorial](https://pytorch.org/tutorials/beginner/translation_transformer.html).
-Et dans un second temps, nous avons répondu à des questions théoriques sur le tranformer utilisé puis 
+Et dans un second temps, nous avons répondu à des questions théoriques sur le transformer utilisé puis 
 nous avons implémenté des fonctions de décodage annexes et de scoring BLEU pour analyser nos résultats.
 
 ## Description du fichier
 
-Le fichier est séparé en quatres parties
+Le fichier est séparé en quatre parties
 
-### 01 - Tutoriel Pytorch tranformers
+### 01 - Tutoriel Pytorch transformers
 
 Repris depuis le site de Pytorch, ce tutoriel nous a permis de comprendre le fonctionnement des transformers.
 
