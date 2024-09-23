@@ -1,6 +1,6 @@
 # NLP Labs Repository
 
-Welcome to the **NLP_LABS** repository! This collection encompasses all the lab assignments I've completed during my Natural Language Processing (NLP) coursework. Each lab explores different facets of NLP, from foundational algorithms to advanced neural network architectures.
+Welcome to the **NLP_LABS** repository! This collection encompasses all the lab assignments I've completed during on of my Natural Language Processing introduction coursework. Each lab explores different facets of NLP, from foundational algorithms to advanced neural network architectures.
 
 ## Table of Contents
 
